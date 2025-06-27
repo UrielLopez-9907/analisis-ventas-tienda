@@ -42,12 +42,6 @@ Este proyecto representa un análisis exploratorio de datos de ventas de una tie
 
 ---
 
-## 🖼️ Ejemplo de visualización
-
-![Productos más vendidos](productos_mas_vendidos.png)
-
----
-
 ## 📌 Principales hallazgos
 
 - La categoría con mayores ventas fue **Electrónica**.
